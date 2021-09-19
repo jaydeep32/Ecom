@@ -17,6 +17,7 @@ drf-yasg = "*"
 django-countries = "*"
 faker = "*"
 gunicorn = "*"
+django-on-heroku = "*"
 
 [dev-packages]
 autopep8 = "*"
